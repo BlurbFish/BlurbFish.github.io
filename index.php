@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KS3 Inclusive Practice Programme</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to external CSS file for styling -->
+</head>
+
+<body>
+    <?php
+    include 'header.php';
+    ?>
+    
+    <section class="hero">
+        <h1>Welcome to the KS3 Inclusive Practice Programme</h1>
+        <p>Enhancing Inclusive Physical Education For Teachers In KS3</p>
+    </section>
+
+    <section class="content">
+        <h2>About the Programme</h2>
+        <p>The KS3 Inclusive Practice Programme is designed to equip physical education teachers with the knowledge and skills to create inclusive learning environments for students in Key Stage 3.</p>
+        <p>Through a comprehensive six-week curriculum, this programme will provide teachers with valuable insights into inclusive pedagogy, evidence-based practices, and practical strategies to foster inclusivity in physical education.</p>
+        <p>Each week, teachers will engage in a combination of interactive workshops, case study analyses, and practical sessions. They will explore topics such as understanding inclusion, building knowledge and skills, collaboration and partnerships, resources and support systems, best practices, and program evaluation.</p>
+        <p>By participating in this programme, teachers will gain the necessary tools and expertise to promote positive attitudes, equal opportunities, and social justice in physical education, ultimately enhancing the learning experience for all students.</p>
+        <a id="nav-button" href="navigation.php"><button>Click To Access Programme</button></a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 KS3 Inclusive Practice Programme. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
